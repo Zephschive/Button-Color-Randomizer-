@@ -1,0 +1,15 @@
+.Click{
+   background-color: chocolate;
+   color: #fff;
+   padding: 15px 32px;
+   font-size: larger;
+   cursor: pointer;
+  
+   margin: 0 auto;
+}
+.con{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
